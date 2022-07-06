@@ -1,38 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+a,
+a:visited,
+a:link {
+    text-decoration: none;
+}
+
+body {
+    margin: auto;
+    background-color: gray;
+    font-family: verdana, arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#root {
+    margin: 20px auto;
+    width: 80%;
+    background-color: white;
+}
+
 .App {
-  text-align: center;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#AddTodoBar {
+    width: 100%;
+    margin: 10px;
+    padding: 10px
+}
+.Button {
+    margin-right: auto;
+    
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#ButtonAdd {
+    margin-right: 3px;
+    padding: 10px;
+    border: none;
+}
+#ButtonAdd:hover{
+    background-color: aqua;
+    cursor: pointer;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#ButtonClear {
+    border: none;
+    padding: 10px;
+    
 }
-
-.App-link {
-  color: #61dafb;
+#ButtonClear:hover{
+    background-color: aqua;
+    cursor: pointer;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#TodoList{
+    margin-top: 30px;
+    margin-right: auto;
+}
+input{
+    margin-right: 10px;
 }
