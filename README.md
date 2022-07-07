@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Todo-React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Add todos and delete them when they are completed
 
-## Available Scripts
+## Authors
 
-In the project directory, you can run:
+- [@TanguyIglesias](https://github.com/TanguyIglesias)
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Client:** HTML, CSS, Js React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Used By
 
-### `npm test`
+This project is used by the following companies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Becode
 
-### `npm run build`
+## Link
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+https://github.com/TanguyIglesias/todo-react
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Preview
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Accueil
+![screen1](/src/image/todo%20accueil.png)
 
-### `npm run eject`
+### Add Todo
+![screen2](/src/image/Add%20Todo%20Before.png)µ
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![screen3](/src/image/Add%20Todo%20After.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Add some Todo
+![screen4](/src/image/Add%20many%20Todo.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Delete Todo
+![screen5](/src/image/Todo%20Delete%20complete.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![screen6](/src/image/Todo%20Delete%20complete%20After.png)
