@@ -20,6 +20,8 @@ This project is used by the following companies:
 
 https://github.com/TanguyIglesias/todo-react
 
+Deployed page: https://spiffy-gingersnap-88bf1a.netlify.app
+
 ## Preview
 
 ### Accueil
