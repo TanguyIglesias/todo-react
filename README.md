@@ -26,7 +26,7 @@ https://github.com/TanguyIglesias/todo-react
 ![screen1](/src/image/todo%20accueil.png)
 
 ### Add Todo
-![screen2](/src/image/Add%20Todo%20Before.png)µ
+![screen2](/src/image/Add%20Todo%20Before.png)
 
 ![screen3](/src/image/Add%20Todo%20After.png)
 
